@@ -8,5 +8,9 @@ Made by:
 - Piyali Sarkar - 23CS2041019
 - Shreya Dutta - 23CS2041034
 
-More details:
-```ccc```
+#About NOD
+
+News on Demand is a news website built using HTML/CSS/Javascript and News API key from newsapi.org. 
+By default, the website quesries news on India, Cricket, Technology and Politics.
+More searches can be quried from the search button.
+
